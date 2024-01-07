@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Other\\uni\\cSHarp\\_253504_Kazakevich_Lab6\\FileServiceLib\\FileServiceLib.csproj": {}
+  },
+  "projects": {
+    "D:\\Other\\uni\\cSHarp\\_253504_Kazakevich_Lab6\\FileServiceLib\\FileServiceLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Other\\uni\\cSHarp\\_253504_Kazakevich_Lab6\\FileServiceLib\\FileServiceLib.csproj",
+        "projectName": "FileServiceLib",
+        "projectPath": "D:\\Other\\uni\\cSHarp\\_253504_Kazakevich_Lab6\\FileServiceLib\\FileServiceLib.csproj",
+        "packagesPath": "C:\\Users\\egorc\\.nuget\\packages\\",
+        "outputPath": "D:\\Other\\uni\\cSHarp\\_253504_Kazakevich_Lab6\\FileServiceLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\egorc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Other\\uni\\cSHarp\\_253504_Kazakevich_Lab6\\_253504_Kazakevich_Lab6\\_253504_Kazakevich_Lab6.csproj": {
+                "projectPath": "D:\\Other\\uni\\cSHarp\\_253504_Kazakevich_Lab6\\_253504_Kazakevich_Lab6\\_253504_Kazakevich_Lab6.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Other\\uni\\cSHarp\\_253504_Kazakevich_Lab6\\_253504_Kazakevich_Lab6\\_253504_Kazakevich_Lab6.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Other\\uni\\cSHarp\\_253504_Kazakevich_Lab6\\_253504_Kazakevich_Lab6\\_253504_Kazakevich_Lab6.csproj",
+        "projectName": "_253504_Kazakevich_Lab6",
+        "projectPath": "D:\\Other\\uni\\cSHarp\\_253504_Kazakevich_Lab6\\_253504_Kazakevich_Lab6\\_253504_Kazakevich_Lab6.csproj",
+        "packagesPath": "C:\\Users\\egorc\\.nuget\\packages\\",
+        "outputPath": "D:\\Other\\uni\\cSHarp\\_253504_Kazakevich_Lab6\\_253504_Kazakevich_Lab6\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\egorc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
