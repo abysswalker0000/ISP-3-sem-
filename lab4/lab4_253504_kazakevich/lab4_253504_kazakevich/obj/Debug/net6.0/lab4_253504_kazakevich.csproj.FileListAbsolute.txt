@@ -1,0 +1,14 @@
+D:\Other\uni\cSHarp\lab4\lab4_253504_kazakevich\lab4_253504_kazakevich\obj\Debug\net6.0\lab4_253504_kazakevich.GeneratedMSBuildEditorConfig.editorconfig
+D:\Other\uni\cSHarp\lab4\lab4_253504_kazakevich\lab4_253504_kazakevich\obj\Debug\net6.0\lab4_253504_kazakevich.AssemblyInfoInputs.cache
+D:\Other\uni\cSHarp\lab4\lab4_253504_kazakevich\lab4_253504_kazakevich\obj\Debug\net6.0\lab4_253504_kazakevich.AssemblyInfo.cs
+D:\Other\uni\cSHarp\lab4\lab4_253504_kazakevich\lab4_253504_kazakevich\obj\Debug\net6.0\lab4_253504_kazakevich.csproj.CoreCompileInputs.cache
+D:\Other\uni\cSHarp\lab4\lab4_253504_kazakevich\lab4_253504_kazakevich\bin\Debug\net6.0\lab4_253504_kazakevich.exe
+D:\Other\uni\cSHarp\lab4\lab4_253504_kazakevich\lab4_253504_kazakevich\bin\Debug\net6.0\lab4_253504_kazakevich.deps.json
+D:\Other\uni\cSHarp\lab4\lab4_253504_kazakevich\lab4_253504_kazakevich\bin\Debug\net6.0\lab4_253504_kazakevich.runtimeconfig.json
+D:\Other\uni\cSHarp\lab4\lab4_253504_kazakevich\lab4_253504_kazakevich\bin\Debug\net6.0\lab4_253504_kazakevich.dll
+D:\Other\uni\cSHarp\lab4\lab4_253504_kazakevich\lab4_253504_kazakevich\bin\Debug\net6.0\lab4_253504_kazakevich.pdb
+D:\Other\uni\cSHarp\lab4\lab4_253504_kazakevich\lab4_253504_kazakevich\obj\Debug\net6.0\lab4_253504_kazakevich.dll
+D:\Other\uni\cSHarp\lab4\lab4_253504_kazakevich\lab4_253504_kazakevich\obj\Debug\net6.0\refint\lab4_253504_kazakevich.dll
+D:\Other\uni\cSHarp\lab4\lab4_253504_kazakevich\lab4_253504_kazakevich\obj\Debug\net6.0\lab4_253504_kazakevich.pdb
+D:\Other\uni\cSHarp\lab4\lab4_253504_kazakevich\lab4_253504_kazakevich\obj\Debug\net6.0\lab4_253504_kazakevich.genruntimeconfig.cache
+D:\Other\uni\cSHarp\lab4\lab4_253504_kazakevich\lab4_253504_kazakevich\obj\Debug\net6.0\ref\lab4_253504_kazakevich.dll
